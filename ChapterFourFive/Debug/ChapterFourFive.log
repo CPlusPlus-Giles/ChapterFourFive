@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\colea\Desktop\C++\ChapterFourFive\ChapterFourFive\ChapterFourFive\Source.cpp(40,64): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\colea\Desktop\C++\ChapterFourFive\ChapterFourFive\ChapterFourFive\Source.cpp(12,31): warning C4101: 'totalMinutes': unreferenced local variable
+  ChapterFourFive.vcxproj -> C:\Users\colea\Desktop\C++\ChapterFourFive\ChapterFourFive\Debug\ChapterFourFive.exe
